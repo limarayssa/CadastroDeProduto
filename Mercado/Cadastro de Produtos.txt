@@ -1,0 +1,1 @@
+Produto, categoria= Alimento, nome= Arroz, marca= Namorado,preço= 10,99

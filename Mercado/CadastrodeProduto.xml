@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Produtos>
+    <produto id="1">
+        <Categoria>Alimento</Categoria>
+        <Nome>Arroz</Nome>
+        <Marca>
+            <NomeMarca>Namorado</NomeMarca>
+            <Preco>10,99</Preco>
+        </Marca>
+    </produto>
+</Produtos>
